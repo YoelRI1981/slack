@@ -1,0 +1,126 @@
+footer {
+    height: 105vh;
+}
+
+.footer-img {
+    width: 55px;
+    margin: 4%;
+    top: 43px;
+    position: relative;
+}
+
+.footer-div-div {
+    top: 63px;
+    position: relative;
+    margin: 4%;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    font-size: 14px;
+}
+
+.footer-div-linea {
+    margin: 4%;
+    position: relative;
+    top: 80px;
+    border-bottom: 2px solid lightgrey;
+    width: 90%;
+}
+
+.footer-div-div-ul-estado {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer-div-div-ul-privacidad {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer-div-div-ul-terminoa {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer-div-div-img1 {
+    width: 23px;
+}
+
+.footer-div-div-ul-cookies {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer-div-div-img2 {
+    width: 19px;
+}
+
+.footer-div-div-img3 {
+    width: 20px;
+}
+
+.footer-div-div-ul-contactanos {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer-div-div-ul-opciones {
+    display: inline-flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 5px;
+    font-weight: bold;
+        font-size: 15px;
+    
+}
+
+
+.footer-div-div-ul-region {
+    display: inline-flex;
+    gap: 5px;
+    font-weight: bold;
+    align-items: center;
+    font-size: 15px;
+}
+
+.footer-div-div-ul-nube {
+    display: inline-flex;
+    gap: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(18, 100, 163);
+}
+
+.footer-div-ul {
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 44vh;
+    position: relative;
+    margin: 4%;
+}
+
+.footer-div-img4 {
+    width: 20px;
+}
+
+.footer-div-ul-iconos {
+    position: relative;
+    top: 120px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    gap: 53px;
+}
+
+.footer-div-div-ul-p {
+    position: relative;
+    top: 150px;
+    font-size: 12px;
+    margin: 4%;
+    line-height: 20px;
+}

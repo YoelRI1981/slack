@@ -1,0 +1,31 @@
+.main-div-texto {
+    margin: 5%;
+}
+
+.main-div-h4 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.main-div-p1 {
+    font-size: 19px;
+    top: 15px;
+    position: relative;
+}
+
+.main-div-p2 {
+    top: 30px;
+    position: relative;
+    color: rgb(18, 100, 163);
+    font-size: 18px;
+}
+
+.main-div-3fotos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    height: 193vh;
+    top: -30px;
+    position: relative;
+}

@@ -1,0 +1,38 @@
+.main-div-logos-airbnb {
+    width: 100px;
+    object-fit: contain;
+}
+
+.main-div-logos-nasa {
+    width: 70px;
+    object-fit: contain;
+}
+
+.main-div-logos-uber {
+    width: 80px;
+    object-fit: contain;
+}
+
+.main-div-logos-diana {
+    width: 100px;
+    object-fit: contain;
+}
+
+.main-div-logos-thenew {
+    width: 185px;
+    object-fit: contain;
+}
+
+.main-div-logos-etsy {
+    width: 65px;  
+    object-fit: contain;
+}
+
+.main-div-logos {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+    gap: 1%;
+}
